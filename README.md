@@ -1,2 +1,10 @@
-# PreservationAct
-Japan's Electronic Books Preservation Act
+# 電子帳簿保存法
+
+## 用語
+国税関係帳簿書類の保存義務者…保存義務者
+
+## 概要
+自己が最初の記録から一貫して電子計算機を使用して作成する場合には、一定の要件のもとでその電子的記録の備付け及び保存をもって  
+その帳簿の備付け及び保存に代えることができるとされています（電子帳簿保存法４①）。
+
+https://www.nta.go.jp/law/joho-zeikaishaku/sonota/jirei/02.htm
